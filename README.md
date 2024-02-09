@@ -1,4 +1,4 @@
-### learn css in depth 
+### learn css 
 ### it is assumed that you know basic css
 ### in case you start from beginnig refer mdn docs
 
